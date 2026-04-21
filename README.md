@@ -95,6 +95,8 @@ NASA_API_KEY=your_api_key_here
 ```bash
 streamlit run app.py
 ```
+<img width="1912" height="885" alt="asteroid" src="https://github.com/user-attachments/assets/0748cb08-bfd6-4291-97f6-10be2eec5dea" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/853672e2-8a9e-45af-b428-5dfeee389c0d" />
 
 ---
 
